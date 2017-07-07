@@ -1,0 +1,13 @@
+{
+  "PAGE_TITLES": {
+    "SIGN_IN_TITLE": "Авторизация",
+    "HOME_PAGE_TITLE": "Главная",
+    "SIGN_UP_TITLE": "Регистрация",
+    "CONTACT_US_TITLE": "Контакты",
+    "COOKIE_POLICY_TITLE": "Cookie Policy",
+    "TERMS_OF_USE_TITLE": "Условия использования",
+    "DASHBOARD_TITLE": "Dashboard",
+    "RECOVER_PASSWORD_TITLE": "Восстановление пароля",
+    "RECOVER_PASSWORD_STEP_2": "Шаг 2 - Восстановление пароля"
+  }
+}

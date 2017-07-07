@@ -1,0 +1,106 @@
+{
+  "CONTACT_US": "Контакты",
+  "SECTION1": {
+    "TITLE": "Представляем BotX",
+    "SUBTITLE": "Позвольте нам заняться работой с Steam",
+    "DESCRIPTION": "Вам больше не нужно беспокоиться о работе с Steam. Мы ждем, когда вы создадите что-то удивительное.",
+    "EXPLORE_MORE": "Узнать Больше",
+    "SIGN_UP_NOW": "Создать Аккаунт"
+  },
+  "SECTION2": {
+    "TITLE": "О Нас",
+    "DESCRIPTION": "You don’t need to worry about steam bots anymore. We wait you to create something amazing.",
+    "OUR_PHILOSOPHY": "Наша Философия",
+    "OUR_PHILOSOPHY_TEXT": {
+      "PART1": "Мы делаем все, чтобы",
+      "PART2": " нашим пользователям",
+      "PART3": "было легко"
+    },
+    "MAIN_TEXT": "BotX — это уникальный в своем роде сервис, мощный инструмент для работы с системой обменов Steam. Вам больше не нужно тратить время на разработку собственных steam-ботов для своего проекта. В Вашем распоряжении готовый сервис, включающий в себя платежную систему, торговую площадку, а также виртуальных ботов с неограниченным количеством мест в инвентаре."
+  },
+  "SECTION4": {
+    "TITLE": "Наша Команда",
+    "DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor, sed bibendum turpis luctus eget",
+    "DEVELOPER": "Разработчик",
+    "MAKAROV_MAX": {
+      "NAME": "Максим Макаров",
+      "DESCRIPTION": "Разработчик и просто хороший человек",
+      "IMAGE": "https://pp.vk.me/c631317/v631317277/12db1/uPu8Mg1GghI.jpg",
+      "ROLE": "Управление и разработка",
+      "VK": "https://vk.com/nordikafiles"
+    },
+    "VISHNEVSKY_GLEB": {
+      "NAME": "Глеб Вишневский",
+      "DESCRIPTION": "Разработчик и просто хороший человек",
+      "IMAGE": "https://pp.vk.me/c630830/v630830707/17780/h0CLlFq9JrQ.jpg",
+      "ROLE": "Управление и разработка",
+      "VK": "https://vk.com/id26139707"
+    },
+    "DMITRY_SADYKOV": {
+      "NAME": "Дмитрий Садыков",
+      "DESCRIPTION": "Менеджер и просто хороший человек",
+      "IMAGE": "https://pp.vk.me/c617522/v617522810/d206/So4RBglqJ-0.jpg",
+      "ROLE": "Управление",
+      "VK": "https://vk.com/id22296810"
+    }
+  },
+  "SECTION5": {
+    "TRADEOFFERS_TODAY": "Трейдов Сегодня",
+    "TOTAL_TRADEOFFERS": "Успешных Трейдов",
+    "PROJECTS_CREATED": "Проектов Создано",
+    "ITEMS_IN_INVENTORY": "Предметов В Инвентаре"
+  },
+  "CONTACT_US_SECTION": {
+    "TITLE": "Контакты",
+    "DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor, sed bibendum turpis luctus eget",
+    "TITLE2": "Если у вас есть проект, который вы хотели бы обсудить, войти в контакт с нами.",
+    "DESCRIPTION2": "Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.",
+    "FORM": {
+      "NAME": "Имя",
+      "EMAIL": "Email",
+      "MESSAGE": "Сообщение",
+      "SEND_MESSAGE": "Отправить Сообщение",
+      "TITLE": "Тема"
+    }
+  },
+  "SECTION6": {
+    "TITLE": "Особенности",
+    "FEATURES": {
+      "FREE_SUPPORT": {
+        "TITLE": "24/7 Поддержка",
+        "DESCRIPTION": "Наша поддержка обеспечивает индивидуальный подход к каждому клиенту"
+      },
+      "POWERFUL_API": {
+        "TITLE": "Мощный API",
+        "DESCRIPTION": "Наша мощная и в то же время простая система API поможет Вам не тратить лишнее время на интеграцию Steam с Вашим проектом."
+      },
+      "EASY_TO_USE": {
+        "TITLE": "Прост в использовании",
+        "DESCRIPTION": "Быстрая регистрация и подключение сайта. Готовые библиотеки для php, nodejs, ruby и других платформ"
+      },
+      "FAST_AND_STABLE": {
+        "TITLE": "Быстрый и стабильный",
+        "DESCRIPTION": "117 ботов уже обеспечивают быструю и стабильную работу с Steam, ведь зачастую именно длительное ожидание является причиной потери клиентов"
+      },
+      "FREE_SKINS_IO": {
+        "TITLE": "Система ввода/вывода скинов",
+        "DESCRIPTION": "Забудьте о закупке скинов! Позвольте Вашим пользователям самим выбирать предметы из огромного ассортимента BotX"
+      },
+      "CSGO_DOTA2_AND_TF2": {
+        "TITLE": "CS:GO, DOTA2 и TF2",
+        "DESCRIPTION": "Наш сервис поддерживает такие игры как Counter-Strike: Global Offensive, Dota 2 и Team Fortress 2"
+      }
+    }
+  },
+  "ACTION_SECTION": {
+    "GET_STARTED": "Подключить сайт",
+    "START_USING_BOTX_RIGHT_NOW": "Начните использовать BotX прямо сейчас!",
+    "SITES_HAVE_ALREADY_BEGUN_TO_USE_OUR_PAYMENT_SYSTEM": "сайтов уже подключено к нашей системе"
+  },
+  "OUR_PRICE_SECTION": {
+    "TITLE": "Тарифы",
+    "DESCRIPTION": "",
+    "BUY_NOW": "Заказать"
+  },
+  "TICKET_SUCCESSFULLY_CREATED": "Тикет успешно создан"
+}

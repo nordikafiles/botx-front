@@ -1,0 +1,13 @@
+{
+  "404": {
+    "TITLE": "We couldn't find it...",
+    "DESCRIPTION1": "The page you're looking for doesn't exist.",
+    "DESCRIPTION2": " Perhaps, there pages will help find what you're looking for."
+  },
+  "500": {
+    "TITLE": "Looks like something went wrong!",
+    "DESCRIPTION1": "We track these errors automatically, but if the problem persists feel free to contact us. ",
+    "DESCRIPTION2": "In the meantime, try refreshing."
+  },
+  "GO_BACK_TO_HOME_PAGE": "Go Back to Home Page"
+}

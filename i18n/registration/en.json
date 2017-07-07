@@ -1,0 +1,27 @@
+{
+  "SIGN_UP_FOR_FREE": "Sign up for free",
+  "REGISTRATION_PAGE": {
+    "TITLE": "Sign Up",
+    "SUBTITLE": "Create your BotX Account. It gives your access to powerful functions.",
+    "ANNOUNCE": {
+      "TITLE" : "Announcing the BotX",
+      "DESCRIPTION": "Create account to manage your own multi-bot for Steam trades. Just try it for free. Enjoy your opportunities and high performance with BotX."
+    },
+    "TERMS_AGREEMENT": {
+      "BY_CLICKING": "By clicking Sign Up, you agree to our",
+      "TERMS" : "Terms",
+      "AND_THAT_YOU_HAVE_READ_OUR": "and that you have read our",
+      "DATA_POLICY": "Data Policy",
+      "INCLUDING_OUR": "including our",
+      "COOKIE": "Cookie",
+      "USE": "Use"
+    },
+    "ALREADY_A_MEMBER": {
+      "ALREADY_A_MEMBER": "Already a member?",
+      "CLICK": "Click",
+      "HERE": "here",
+      "TO_LOGIN": "to login."
+    }
+  },
+  "NAME": "Name"
+}

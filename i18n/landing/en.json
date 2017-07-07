@@ -1,0 +1,108 @@
+{
+  "CONTACT_US": "Contact Us",
+  "SECTION1": {
+    "TITLE": "Welcome to BotX",
+    "SUBTITLE": "Let us deal with Steam",
+    "DESCRIPTION": "You don’t need to worry about steam bots anymore. We wait you to create something amazing.",
+    "EXPLORE_MORE": "Explore More",
+    "SIGN_UP_NOW": "Create Account"
+  },
+  "SECTION2": {
+    "TITLE": "About Us",
+    "SUBTITLE": "Let us deal with Steam",
+    "DESCRIPTION": "You don’t need to worry about steam bots anymore. We wait you to create something amazing.",
+    "OUR_PHILOSOPHY": "Our Philosophy",
+    "OUR_PHILOSOPHY_TEXT": {
+      "PART1": "We work hard",
+      "PART2": "to let our user keep",
+      "PART3": "simple"
+    },
+    "MAIN_TEXT": "BotX is a unique service, a powerful tool for work with Steam Trade System. You don't need now spend time developing their own steam-boats for the project. There is a ready service, which includes the payment system, trading platform, virtual bots with an unlimited number of items in the inventory."
+  },
+  "SECTION4": {
+    "TITLE": "Our Team",
+    "SUBTITLE": "Let us deal with Steam",
+    "DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor, sed bibendum turpis luctus eget",
+    "DEVELOPER": "Developer",
+    "MAKAROV_MAX": {
+      "NAME": "Max Makarov",
+      "DESCRIPTION": "Very cool man & developer",
+      "IMAGE": "https://pp.vk.me/c631317/v631317277/12db1/uPu8Mg1GghI.jpg",
+      "ROLE": "Development & Management",
+      "VK": "https://vk.com/nordikafiles"
+    },
+    "VISHNEVSKY_GLEB": {
+      "NAME": "Gleb Vishnevsky",
+      "DESCRIPTION": "Very cool man & developer",
+      "IMAGE": "https://pp.vk.me/c630830/v630830707/17780/h0CLlFq9JrQ.jpg",
+      "ROLE": "Development & Management",
+      "VK": "https://vk.com/id26139707"
+    },
+    "DMITRY_SADYKOV": {
+      "NAME": "Dmitry Sadykov",
+      "DESCRIPTION": "Very cool man & developer",
+      "IMAGE": "https://pp.vk.me/c617522/v617522810/d206/So4RBglqJ-0.jpg",
+      "ROLE": "Management",
+      "VK": "https://vk.com/id22296810"
+    }
+  },
+  "SECTION5": {
+    "TRADEOFFERS_TODAY": "Trade Offers Today",
+    "TOTAL_TRADEOFFERS": "Total Trade Offers",
+    "PROJECTS_CREATED": "Projects Created",
+    "ITEMS_IN_INVENTORY": "Items In Inventory"
+  },
+  "CONTACT_US_SECTION": {
+    "TITLE": "Contact Us",
+    "DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor, sed bibendum turpis luctus eget",
+    "TITLE2": "If you have a project you would like to discuss, get in touch with us.",
+    "DESCRIPTION2": "Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.",
+    "FORM": {
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "MESSAGE": "Message",
+      "SEND_MESSAGE": "Send Message",
+      "TITLE": "Title"
+    }
+  },
+  "SECTION6": {
+    "TITLE": "Features",
+    "FEATURES": {
+      "FREE_SUPPORT": {
+        "TITLE": "24/7 Support",
+        "DESCRIPTION": "Our support provides an individual approach to every single client"
+      },
+      "POWERFUL_API": {
+        "TITLE": "Powerful API",
+        "DESCRIPTION": "Our powerful and simple API will help you integrate Steam with your project"
+      },
+      "EASY_TO_USE": {
+        "TITLE": "Easy to Use",
+        "DESCRIPTION": "Quick connection. There are php, nodejs, ruby and other platforms libraries"
+      },
+      "FAST_AND_STABLE": {
+        "TITLE": "Fast & Stable",
+        "DESCRIPTION": "117 bots already provide quick and stable operations with Steam, because long wait causes losses of customers"
+      },
+      "FREE_SKINS_IO": {
+        "TITLE": "Deposit/Withdraw System",
+        "DESCRIPTION": "Forget about buying skins! Just allow your users choose any BotX's subjects"
+      },
+      "CSGO_DOTA2_AND_TF2": {
+        "TITLE": "CS:GO, DOTA2 & TF2",
+        "DESCRIPTION": "Our service supports Counter-Strike: Global Offensive, Dota 2 and Team Fortress 2"
+      }
+    }
+  },
+  "ACTION_SECTION": {
+    "GET_STARTED": "Get Started",
+    "START_USING_BOTX_RIGHT_NOW": "Start using BotX right now!",
+    "SITES_HAVE_ALREADY_BEGUN_TO_USE_OUR_PAYMENT_SYSTEM": "sites have already begun to use our payment system"
+  },
+  "OUR_PRICE_SECTION": {
+    "TITLE": "Our Price",
+    "DESCRIPTION": "",
+    "BUY_NOW": "Order Now"
+  },
+  "TICKET_SUCCESSFULLY_CREATED": "Ticket has been successfully created"
+}

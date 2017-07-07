@@ -1,0 +1,13 @@
+{
+  "PAGE_TITLES": {
+    "SIGN_IN_TITLE": "Sign in",
+    "HOME_PAGE_TITLE": "Home",
+    "SIGN_UP_TITLE": "Sign up for a Free Account",
+    "CONTACT_US_TITLE": "Contact Us",
+    "COOKIE_POLICY_TITLE": "Cookie Policy",
+    "TERMS_OF_USE_TITLE": "Terms Of Use",
+    "DASHBOARD_TITLE": "Dashboard",
+    "RECOVER_PASSWORD_TITLE": "Recover Password",
+    "RECOVER_PASSWORD_STEP_2": "Step 2 - Recover Password"
+  }
+}
