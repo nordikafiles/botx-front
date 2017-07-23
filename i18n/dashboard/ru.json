@@ -128,6 +128,32 @@
   "NOTIFICATION_RESPONSE": "Ответ",
   "NOTIFICATION_DATE": "Дата",
   "PROJECT_BALANCE": "Баланс",
-  "FEE": "Комиссия"
+  "FEE": "Комиссия",
+  "EDIT_PROJECT_NAME": {
+    "TITLE": "Изменить имя проекта",
+    "TEXT": "",
+    "PLACEHOLDER": "Введите новое имя проекта",
+    "SUCCESS": {
+      "TITLE": "Успех",
+      "TEXT": "Имя проекта было успешно изменено"
+    },
+    "ERROR": {
+      "TITLE": "Ошибка",
+      "TEXT": "Во время изменения имени проекта произошла ошибка"
+    }
+  },
+  "EDIT_IPN_CALLBACK": {
+    "TITLE": "Изменить IPN callback",
+    "TEXT": "",
+    "PLACEHOLDER": "Введите новый IPN callback здесь",
+    "SUCCESS": {
+      "TITLE": "Успех",
+      "TEXT": "IPN callback был успешно изменен"
+    },
+    "ERROR": {
+      "TITLE": "Ошибка",
+      "TEXT": "Во время изменения IPN callback произошла ошибка"
+    }
+  }
 
 }
