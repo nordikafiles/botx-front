@@ -120,6 +120,7 @@
   "HIDE_ATTACHMENT": "Скрыть детали",
   "PROJECT_TRANSACTIONS": "Транзакции проекта",
   "SHOW_NOTIFICATIONS": "Показать уведомления",
+  "SHOW_NOTIFICATION_RESPONSE": "Показать ответ",
   "TRANSACTION_NOTIFICATIONS": "Уведомления",
   "NOTIFICATION_STATUS": "Состояние",
   "NOTIFICATION_METHOD": "Метод",
@@ -155,5 +156,4 @@
       "TEXT": "Во время изменения IPN callback произошла ошибка"
     }
   }
-
 }

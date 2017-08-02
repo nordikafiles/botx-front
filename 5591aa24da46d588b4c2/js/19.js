@@ -1,0 +1,1 @@
+webpackJsonp([19],{224:function(n,e,t){var o,r,u;o=t(2),r=t(5).default,u=o.module("test",[]),n.exports=u.name,t(474)},474:function(n,e,t){var o,r,u,a,c;r=t(224),c=angular.module(r),a=t(540),u="test",o=function(){function n(){}return n}(),c.component(u,{template:a,controller:o,bindings:{}}),n.exports=u},540:function(n,e){n.exports="qweqeqew"}});
