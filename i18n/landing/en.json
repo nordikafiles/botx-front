@@ -104,5 +104,16 @@
     "DESCRIPTION": "",
     "BUY_NOW": "Order Now"
   },
-  "TICKET_SUCCESSFULLY_CREATED": "Ticket has been successfully created"
+  "TICKET_SUCCESSFULLY_CREATED": "Ticket has been successfully created",
+  "STARTER": "Starter",
+  "PRO": "Pro",
+  "ENTERPRISE": "Enterprise",
+  "UNLIMITED": "Unlimited",
+  "PER_MONTH": "per month",
+  "UNLIMITED_ACTIVE_PROJECTS": "Unlimited active projects",
+  "UNLIMITED_API_REQUESTS": "Unlimited api requests",
+  "UNLIMITED_INVENTORY_SLOTS": "Unlimited inventory slots",
+  "INVENTORY_SLOTS": "inventory slots",
+  "UNLIMITED_TRADES_PER_MONTH": "Unlimited trades per month",
+  "TRADES_PER_MONTH": "trades per month"
 }

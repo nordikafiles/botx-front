@@ -102,5 +102,16 @@
     "DESCRIPTION": "",
     "BUY_NOW": "Заказать"
   },
-  "TICKET_SUCCESSFULLY_CREATED": "Тикет успешно создан"
+  "TICKET_SUCCESSFULLY_CREATED": "Тикет успешно создан",
+  "STARTER": "Стартовый",
+  "PRO": "Pro",
+  "ENTERPRISE": "Enterprise",
+  "UNLIMITED": "Безлимитный",
+  "PER_MONTH": "в месяц",
+  "UNLIMITED_ACTIVE_PROJECTS": "Неограниченное количество проектов",
+  "UNLIMITED_API_REQUESTS": "Неограниченное количество запросов",
+  "UNLIMITED_INVENTORY_SLOTS": "Неограниченное количество мест в инвентаре",
+  "INVENTORY_SLOTS": "мест в инвентаре",
+  "UNLIMITED_TRADES_PER_MONTH": "Неограниченное количество трейдов",
+  "TRADES_PER_MONTH": "трейдов в месяц"
 }
