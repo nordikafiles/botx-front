@@ -114,6 +114,7 @@
   "CASHOUT": "Cashout",
   "SHOW_RESPONSE": "Show Reponse",
   "HIDE_RESPONSE": "Hide Reponse",
+  "SHOW_NOTIFICATION_RESPONSE": "Show Reponse",
   "TRANSACTION_TYPE": "Transaction Type",
   "TRANSACTION_STATE": "State",
   "SHOW_ATTACHMENT": "Show Attachment",
