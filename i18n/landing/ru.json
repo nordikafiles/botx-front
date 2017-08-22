@@ -8,8 +8,8 @@
     "SIGN_UP_NOW": "Создать Аккаунт"
   },
   "SECTION2": {
-    "TITLE": "О Нас",
-    "DESCRIPTION": "You don’t need to worry about steam bots anymore. We wait you to create something amazing.",
+    "TITLE": "О проекте",
+    "DESCRIPTION": "Вам больше не нужно беспокоиться о работе с Steam. Мы ждем, когда вы создадите что-то удивительное.",
     "OUR_PHILOSOPHY": "Наша Философия",
     "OUR_PHILOSOPHY_TEXT": {
       "PART1": "Мы делаем все, чтобы",
@@ -94,7 +94,7 @@
   },
   "ACTION_SECTION": {
     "GET_STARTED": "Подключить сайт",
-    "START_USING_BOTX_RIGHT_NOW": "Начните использовать BotX прямо сейчас!",
+    "START_USING_BOTX_RIGHT_NOW": "Начните использовать BotX бесплатно!",
     "SITES_HAVE_ALREADY_BEGUN_TO_USE_OUR_PAYMENT_SYSTEM": "сайтов уже подключено к нашей системе"
   },
   "OUR_PRICE_SECTION": {
