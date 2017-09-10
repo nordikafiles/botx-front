@@ -155,7 +155,13 @@
       "TITLE": "Error",
       "TEXT": "Error changing IPN callback"
     }
-  }
+  },
+  "BOTS": "Bots",
+  "ITEMS_COUNT": "items count",
+  "BOT": "Bot",
+  "ACTIVE_TASKS": "Active tasks",
+  "ONLINE": "Online",
+  "OFFLINE": "Offline"
 
 
 }
