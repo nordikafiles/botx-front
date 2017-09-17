@@ -1,0 +1,121 @@
+{
+  "CONNECT_WEBSITE": "Подключить свой сайт",
+  "CONNECT": "Подключиться",
+  "TRY_CONNECT": "Попробовать",
+  "SECTION_MAIN": {
+    "TITLE": [
+      "Настроим передачу",
+      "скинов с вашего сайта"
+    ],
+    "SUBTITLE": [
+      "Вам не нужно создавать своих steam-ботов", 
+      "Мы их уже создали и делимся с вами"
+    ],
+    "GAMES_TITLE": "Работаем с играми",
+    "WHY_IT_COOL": "Узнать, почему это выгодно",
+    "YOUR_WEBSITE": "Ваш сайт",
+    "YOUR_CLIENT": "Клиент"
+  },
+  "SECTION_PROBLEM": {
+    "SOLUTION": "РЕШЕНИЕ ПРОБЛЕМЫ",
+    "PROBLEM1": {
+      "TITLE": [
+        "Клиент видит пустой",
+        "магазин и уходит с сайта"
+      ],
+      "SUBTITLE": [
+        "В магазинах наших ботов больше 700 скинов,",
+        "по этому клиент не уйдет"
+      ],
+      "USE_OUR_BOTS": "Поключайтесь и пользуйтесь нашими ботами"
+    },
+    "PROBLEM2": {
+      "TITLE": [
+        "Тот момент, когда",
+        "клиент не дождался трейда,",
+        "обиделся и ушел :("
+      ],
+      "SUBTITLE": "С нами такого не будет",
+      "TEXT": [
+        "Трейды всегда будут отправляться моментально, ведь у нас 117 ботов.",
+        "Поэтому клиент продолжит тратить деньги на вашем сайте."
+      ]
+    }
+  },
+  "SECTION_MONEY": {
+    "TITLE": "Результат",
+    "SUBTITLE": [
+      "Уход людей с сайта уменьшится,",
+      "а ваша прибыль возрастет на 20-30%"
+    ]
+  },
+  "SECTION_FEE": {
+    "TITLE": [
+      "Мы берем всего",
+      "коммисии",
+      "с передачи и получения скинов"
+    ]
+  },
+  "SECTION_CODE": {
+    "TITLE": [
+      "Подключить сайт настолько легко,",
+      "что справитесь без нашей помощи."
+    ],
+    "SUBTITLE": [
+      "Но, если что,",
+      "мы поможем"
+    ],
+    "LIBRARIES": "Готовые библиотеки"
+  },
+  "SECTION_PARTNERS": {
+    "TITLE": "С нами уже работают",
+    "SUBTITLE": [
+      "Но, если что,",
+      "мы поможем"
+    ],
+    "LIBRARIES": "Готовые библиотеки",
+    "PARTNERS": [
+      {
+        "TITLE": "csgo-cash.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      },
+      {
+        "TITLE": "mrskini.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      },
+      {
+        "TITLE": "boomcsgo.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      }
+    ]
+  },
+  "SECTION_FAQ": {
+    "TITLE": "Задать вопрос",
+    "SUBTITLE": "Часто задаваемые вопросы",
+    "FAQ": [
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      },
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      },
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      }
+    ], 
+    "EMAIL": "Ваш email",
+    "TYPE_MESSAGE_HERE": "Введите сообщение",
+    "SUBMIT": "Отправить"
+  },
+  "FOOTER": {
+    "COPY": "© BotX Все права защищены 2017",
+    "DEVELOPED_BY": "Разработано",
+    "DESIGN_BY": "Дизайн"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "CONNECT_WEBSITE": "Connect website",
+  "CONNECT": "Connect website",
+  "TRY_CONNECT": "Try now",
+  "SECTION_MAIN": {
+    "TITLE": [
+      "Настроим передачу",
+      "скинов с вашего сайта"
+    ],
+    "SUBTITLE": [
+      "Вам не нужно создавать своих steam-ботов", 
+      "Мы их уже создали и делимся с вами"
+    ],
+    "GAMES_TITLE": "Works with",
+    "WHY_IT_COOL": "Why it cool",
+    "YOUR_WEBSITE": "Your site",
+    "YOUR_CLIENT": "Client"
+  },
+  "SECTION_PROBLEM": {
+    "SOLUTION": "PROBLEM",
+    "PROBLEM1": {
+      "TITLE": [
+        "Клиент видит пустой",
+        "магазин и уходит с сайта"
+      ],
+      "SUBTITLE": [
+        "В магазинах наших ботов больше 700 скинов,",
+        "по этому клиент не уйдет"
+      ],
+      "USE_OUR_BOTS": "Connect website and use our bots"
+    },
+    "PROBLEM2": {
+      "TITLE": [
+        "Тот момент, когда",
+        "клиент не дождался трейда,",
+        "обиделся и ушел :("
+      ],
+      "SUBTITLE": "With us this will not be",
+      "TEXT": [
+        "Трейды всегда будут отправляться моментально, ведь у нас 117 ботов.",
+        "Поэтому клиент продолжит тратить деньги на вашем сайте."
+      ]
+    }
+  },
+  "SECTION_MONEY": {
+    "TITLE": "Result",
+    "SUBTITLE": [
+      "Уход людей с сайта уменьшится,",
+      "а ваша прибыль возрастет на 20-30%"
+    ]
+  },
+  "SECTION_FEE": {
+    "TITLE": [
+      "Our fee is only",
+      "",
+      ""
+    ]
+  },
+  "SECTION_CODE": {
+    "TITLE": [
+      "It's so easy",
+      "that you don't need our help"
+    ],
+    "SUBTITLE": [
+      "Но, если что,",
+      "мы поможем"
+    ],
+    "LIBRARIES": "Our libraries"
+  },
+  "SECTION_PARTNERS": {
+    "TITLE": "Sites already work with us",
+    "PARTNERS": [
+      {
+        "TITLE": "csgo-cash.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      },
+      {
+        "TITLE": "mrskini.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      },
+      {
+        "TITLE": "boomcsgo.com",
+        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+      }
+    ]
+  },
+  "SECTION_FAQ": {
+    "TITLE": "Ask a question",
+    "SUBTITLE": "F.A.Q.",
+    "FAQ": [
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      },
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      },
+      {
+        "TITLE": "1. В чем смысл жизни?",
+        "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
+      }
+    ], 
+    "EMAIL": "Email",
+    "TYPE_MESSAGE_HERE": "Type your message here",
+    "SUBMIT": "Submit"
+  },
+  "FOOTER": {
+    "COPY": "© BotX All rights reserved 2017",
+    "DEVELOPED_BY": "Developed by",
+    "DESIGN_BY": "Design by"
+  }
+}
