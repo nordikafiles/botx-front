@@ -77,17 +77,17 @@
     "PARTNERS": [
       {
         "TITLE": "csgo-cash.com",
-        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "IMAGE": "/img/new_landing/sites/cash.jpg",
         "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
       },
       {
         "TITLE": "mrskini.com",
-        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "IMAGE": "/img/new_landing/sites/mrskini.jpg",
         "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
       },
       {
         "TITLE": "boomcsgo.com",
-        "IMAGE": "/img/new_landing/sites/csgo-cash.png",
+        "IMAGE": "/img/new_landing/sites/boomcsgo.jpg",
         "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
       }
     ]
@@ -97,15 +97,15 @@
     "SUBTITLE": "Часто задаваемые вопросы",
     "FAQ": [
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "1. Как подключить свой сайт?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       },
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "2. Это безопасно?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       },
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "3. В чем смысл жизни?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       }
     ], 
