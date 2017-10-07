@@ -4,12 +4,12 @@
   "TRY_CONNECT": "Try now",
   "SECTION_MAIN": {
     "TITLE": [
-      "Настроим передачу",
-      "скинов с вашего сайта"
+      "Let's configure the transfer ",
+      "of skins from your site"
     ],
     "SUBTITLE": [
-      "Вам не нужно создавать своих steam-ботов", 
-      "Мы их уже создали и делимся с вами"
+      "You do not need to create your own steam bots", 
+      "We have already created them and share with you"
     ],
     "GAMES_TITLE": "Works with",
     "WHY_IT_COOL": "Why it cool",
@@ -20,33 +20,33 @@
     "SOLUTION": "PROBLEM",
     "PROBLEM1": {
       "TITLE": [
-        "Клиент видит пустой",
-        "магазин и уходит с сайта"
+        "The client sees an empty ",
+        "store and leaves the site"
       ],
       "SUBTITLE": [
-        "В магазинах наших ботов больше 700 скинов,",
-        "по этому клиент не уйдет"
+        "In the shops of our bots more than 700 skins, ",
+        "on this client will not go away"
       ],
       "USE_OUR_BOTS": "Connect website and use our bots"
     },
     "PROBLEM2": {
       "TITLE": [
-        "Тот момент, когда",
-        "клиент не дождался трейда,",
-        "обиделся и ушел :("
+        "The moment when",
+        "the client did not wait for the trade,",
+        "was offended and left: ("
       ],
       "SUBTITLE": "With us this will not be",
       "TEXT": [
-        "Трейды всегда будут отправляться моментально, ведь у нас 117 ботов.",
-        "Поэтому клиент продолжит тратить деньги на вашем сайте."
+        "Trades will always be sent immediately, because we have 117 bots.",
+        "Therefore, the customer will continue to spend money on your site."
       ]
     }
   },
   "SECTION_MONEY": {
     "TITLE": "Result",
     "SUBTITLE": [
-      "Уход людей с сайта уменьшится,",
-      "а ваша прибыль возрастет на 20-30%"
+      "The withdrawal of people from the site will decrease,",
+      "and your profit will increase by 20-30%"
     ]
   },
   "SECTION_FEE": {
@@ -62,8 +62,8 @@
       "that you don't need our help"
     ],
     "SUBTITLE": [
-      "Но, если что,",
-      "мы поможем"
+      "But, if anything,",
+      "we will help"
     ],
     "LIBRARIES": "Our libraries"
   },
@@ -73,17 +73,17 @@
       {
         "TITLE": "csgo-cash.com",
         "IMAGE": "/img/new_landing/sites/cash.jpg",
-        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+        "DESCRIPTION": "Service in which the participants contribute their items (skins) and when the total is 100 items or 3 minutes from the second deposit, the system determines 1 winner, who gets all the items. The winner is determined randomly, the chance of winning depends on the cost of the contributed skins."
       },
       {
         "TITLE": "mrskini.com",
         "IMAGE": "/img/new_landing/sites/mrskini.jpg",
-        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+        "DESCRIPTION": "The main goal of the \"Mrskini\" project is the development of a program to help all gamers on the ground, able to provide items and skins in their favorite game. After you become a member of the \"Mrskini\" system, you will immediately understand that it is not so difficult to receive a large number of items to your account."
       },
       {
         "TITLE": "boomcsgo.com",
         "IMAGE": "/img/new_landing/sites/boomcsgo.jpg",
-        "DESCRIPTION": "Сервис в котором участвующие вносят свои предметы (скины) и когда в сумме набирается 100 предметов или проходит 3 минуты с момента второго депозита, система определяет 1 победителя, которому и достаются все внесенные предметы. Победитель определяется случайным образом, шанс выигрыша зависит от стоимости внесенных скинов."
+        "DESCRIPTION": "Service where CS:GO players can try their luck and get awesome skins! Just deposit your skins to the raffle, become a winner and sweep the board!"
       }
     ]
   },
@@ -92,15 +92,15 @@
     "SUBTITLE": "F.A.Q.",
     "FAQ": [
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "1. How to connect your site?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       },
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "1. Is it safe?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       },
       {
-        "TITLE": "1. В чем смысл жизни?",
+        "TITLE": "1. What is the meaning of life?",
         "CONTENT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi sunt facere pariatur recusandae tempora dicta dignissimos, ea officiis, obcaecati modi quidem omnis minima expedita iste veniam non nulla illum hic."
       }
     ], 
